@@ -1,0 +1,7 @@
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\bin\Debug\Практическая 7.exe.config
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\bin\Debug\Практическая 7.exe
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\bin\Debug\Практическая 7.pdb
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\obj\Debug\Практическая 7.csproj.AssemblyReference.cache
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\obj\Debug\Практическая 7.csproj.CoreCompileInputs.cache
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\obj\Debug\Практическая 7.exe
+C:\Users\синус\Desktop\Практические ОАиП\Практическая 7\obj\Debug\Практическая 7.pdb
